@@ -8,10 +8,14 @@ public class IntroVariaveis {
 		// inspirado no cusro de Loiane Groner
 		//https://www.youtube.com/watch?v=ELBqT_rueAQ&feature=emb_logo
 		
-		int idade;
-		String nome;
+		//declaração das variáveis
+		int idade = 22; // inicializada
+		String nome = "Joana";
 		String nomeDoMeuCachorro;
 		
+		
+		System.out.println("idade: " +  idade);
+		System.out.println("nome: " + nome);
 		
 		
 		

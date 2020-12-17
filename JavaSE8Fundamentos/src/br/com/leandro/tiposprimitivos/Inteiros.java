@@ -1,5 +1,7 @@
 package br.com.leandro.tiposprimitivos;
 
+import java.util.Scanner;
+
 public class Inteiros {
 
 	public static void main(String[] args) {
@@ -17,6 +19,10 @@ public class Inteiros {
 		System.out.println(idade02);
 		System.out.println(idade03);
 		System.out.println(idade04);
+	
+	
+		
 	}
+	
 
 }
